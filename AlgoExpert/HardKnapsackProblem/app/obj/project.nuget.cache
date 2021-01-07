@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wYrsitb4jCwkSi1kZ23p4rFeL+C8tWuhYoEYVX4ekU9ROG9Oe1pWRPql5sBcrT3Ql0FkMJQskaaQ+70MoCXmuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlosh\\Documents\\Code\\AlgoExpert\\HardKnapsackProblem\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlosh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\bin\Debug\netcoreapp3.1\app.exe
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\bin\Debug\netcoreapp3.1\app.deps.json
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\bin\Debug\netcoreapp3.1\app.runtimeconfig.json
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\bin\Debug\netcoreapp3.1\app.runtimeconfig.dev.json
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\bin\Debug\netcoreapp3.1\app.dll
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\bin\Debug\netcoreapp3.1\app.pdb
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\obj\Debug\netcoreapp3.1\app.csprojAssemblyReference.cache
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\obj\Debug\netcoreapp3.1\app.AssemblyInfoInputs.cache
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\obj\Debug\netcoreapp3.1\app.AssemblyInfo.cs
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\obj\Debug\netcoreapp3.1\app.csproj.CoreCompileInputs.cache
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\obj\Debug\netcoreapp3.1\app.dll
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\obj\Debug\netcoreapp3.1\app.pdb
+C:\Users\carlosh\Documents\Code\AlgoExpert\EasyEighth\app\obj\Debug\netcoreapp3.1\app.genruntimeconfig.cache
